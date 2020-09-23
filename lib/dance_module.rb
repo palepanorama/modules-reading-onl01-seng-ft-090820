@@ -1,6 +1,6 @@
 module Dance 
   def twirl 
-    "I'm Twirling!"
+    "I'm twirling!"
   end 
   
   def jump 
